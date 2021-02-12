@@ -1,0 +1,86 @@
+12/02/2021 11:03:13	This log contains information about the import schema operation into project 'Database' on computer 'PO714686' by user 'S852937'.
+12/02/2021 11:03:13	Import of database schema has started.
+12/02/2021 11:03:19	Gathering database credentials
+12/02/2021 11:03:19	Gathering database options
+12/02/2021 11:03:19	Gathering generic database scoped configuration option
+12/02/2021 11:03:19	Gathering users
+12/02/2021 11:03:19	Gathering roles
+12/02/2021 11:03:19	Gathering application roles
+12/02/2021 11:03:19	Gathering role memberships
+12/02/2021 11:03:20	Gathering filegroups
+12/02/2021 11:03:20	Gathering full-text catalogs
+12/02/2021 11:03:20	Gathering assemblies
+12/02/2021 11:03:20	Gathering certificates
+12/02/2021 11:03:20	Gathering asymmetric keys
+12/02/2021 11:03:20	Gathering symmetric keys
+12/02/2021 11:03:20	Gathering encrypted symmetric keys
+12/02/2021 11:03:20	Gathering schemas
+12/02/2021 11:03:20	Gathering XML schema collections
+12/02/2021 11:03:20	Gathering user-defined data types
+12/02/2021 11:03:20	Gathering user-defined types
+12/02/2021 11:03:20	Gathering table types
+12/02/2021 11:03:20	Gathering unique keys for table types
+12/02/2021 11:03:20	Gathering primary keys for table types
+12/02/2021 11:03:20	Gathering indexes for table types
+12/02/2021 11:03:20	Gathering check constraints for table types
+12/02/2021 11:03:20	Gathering default constraints for table types
+12/02/2021 11:03:20	Gathering partition functions
+12/02/2021 11:03:20	Gathering partition schemes
+12/02/2021 11:03:20	Gathering functions
+12/02/2021 11:03:20	Gathering encrypted functions
+12/02/2021 11:03:20	Gathering aggregates
+12/02/2021 11:03:20	Gathering procedures
+12/02/2021 11:03:20	Gathering encrypted procedures
+12/02/2021 11:03:20	Gathering tables
+12/02/2021 11:03:20	Gathering primary keys
+12/02/2021 11:03:20	Gathering unique constraints
+12/02/2021 11:03:20	Gathering foreign keys
+12/02/2021 11:03:20	Gathering default constraints
+12/02/2021 11:03:20	Gathering check constraints
+12/02/2021 11:03:20	Gathering views
+12/02/2021 11:03:20	Gathering encrypted views
+12/02/2021 11:03:20	Gathering indexes
+12/02/2021 11:03:20	Gathering statistics
+12/02/2021 11:03:20	Gathering full-text index stoplists
+12/02/2021 11:03:20	Gathering search property lists
+12/02/2021 11:03:20	Gathering search properties
+12/02/2021 11:03:20	Gathering full-text indexes
+12/02/2021 11:03:20	Gathering column store indexes
+12/02/2021 11:03:20	Gathering spatial indexes
+12/02/2021 11:03:20	Gathering XML indexes
+12/02/2021 11:03:20	Gathering Selective XML indexes
+12/02/2021 11:03:20	Gathering encrypted triggers
+12/02/2021 11:03:20	Gathering triggers
+12/02/2021 11:03:20	Gathering encrypted and clr ddl triggers
+12/02/2021 11:03:20	Gathering ddl triggers
+12/02/2021 11:03:20	Creating edge constraints
+12/02/2021 11:03:20	Gathering synonyms
+12/02/2021 11:03:20	Gathering defaults
+12/02/2021 11:03:20	Gathering data constraint uddt bindings
+12/02/2021 11:03:20	Gathering rules
+12/02/2021 11:03:20	Gathering data constraint uddt bindings
+12/02/2021 11:03:20	Gathering message types
+12/02/2021 11:03:20	Gathering queues
+12/02/2021 11:03:20	Gathering contracts
+12/02/2021 11:03:20	Gathering services
+12/02/2021 11:03:20	Gathering event notifications
+12/02/2021 11:03:20	Gathering remote service bindings
+12/02/2021 11:03:20	Gathering broker priorities
+12/02/2021 11:03:20	Gathering signatures
+12/02/2021 11:03:20	Gathering data compression options
+12/02/2021 11:03:20	Gathering sequence types
+12/02/2021 11:03:20	Gathering security policies
+12/02/2021 11:03:20	Gather column encryption keys
+12/02/2021 11:03:20	Gathering column master keys
+12/02/2021 11:03:20	Gathering external data sources
+12/02/2021 11:03:20	Gathering external file formats
+12/02/2021 11:03:20	Gathering external tables
+12/02/2021 11:03:20	Gathering extended properties
+12/02/2021 11:03:20	Gathering credentials
+12/02/2021 11:03:20	Gathering logins
+12/02/2021 11:03:20	Gathering server audits
+12/02/2021 11:03:21	Scanning project for duplicate elements
+12/02/2021 11:03:21	Finished duplicate element processing
+12/02/2021 11:03:22	Finished importing database.
+12/02/2021 11:03:22	A summary of the import was saved to the following location: C:\Omar LACHGAR\WorkSpace\POC-Projects\Demo.Database.CICD\Database\Import Schema Logs\Database_20210212100313.log
+12/02/2021 11:03:22	Click Finish to continue...
